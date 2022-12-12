@@ -33,7 +33,7 @@
 	"dependencies": {
 		"bootstrap": "^4.4.1",
 		"css-loader": "^3.4.2",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"handlebars": "^4.7.3",
 		"handlebars-loader": "^1.7.1",
 		"jquery": "^3.4.1",
